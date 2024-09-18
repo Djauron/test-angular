@@ -38,15 +38,6 @@ project-root/
 - **docker-compose.yml** : Fichier de configuration pour Docker Compose.
 - **README.md** : Documentation du projet (ce fichier).
 
-## Installation
-
-Clonez le dépôt du projet et naviguez dans le répertoire du projet :
-
-```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
-cd votre-projet
-```
-
 ## Configuration du Backend
 
 ### Installation des Dépendances
