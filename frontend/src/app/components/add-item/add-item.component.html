@@ -1,0 +1,11 @@
+<h2>Ajouter un Nouvel Item</h2>
+<form (ngSubmit)="onSubmit()">
+  <input
+    type="text"
+    [(ngModel)]="itemName"
+    name="itemName"
+    placeholder="Nom de l'item"
+    required
+  />
+  <button type="submit">Ajouter</button>
+</form>
